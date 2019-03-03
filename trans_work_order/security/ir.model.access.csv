@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+acess_user_work_order,Fleet Work Order - All Users,model_fleet_work_order,base.group_user,1,0,0,0
+acess_user_work_order_type,Fleet Work Order Type - All Users,model_fleet_work_order_type,base.group_user,1,0,0,0
